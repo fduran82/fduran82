@@ -1,8 +1,6 @@
 
 - 👋 Hi, I’m @fduran82
-. . . ./// . . . .
-. . . (o o). . . .
---o00--( )--00o----
+
 
 
 - 👀 I’m interested in web development, design and more!
