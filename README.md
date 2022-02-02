@@ -7,10 +7,6 @@
 
 
 
-- 🌱 I’m currently learning all I CAN!!! 
-
-
-
 - 📫 How to reach me ...
 
 
