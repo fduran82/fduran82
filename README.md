@@ -7,7 +7,11 @@
 
 
 
-- 📫 How to reach me ...
+- 📫 How to reach me ... Hello@fidelduran.com
+
+
+
+- 💻 www.fidelduran.com
 
 
 
