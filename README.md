@@ -1,4 +1,5 @@
-
+<p align="center"><a href="https://laravel.com" target="_blank"><img width="250" src="https://fidelduran.com/images/logos/logo-yellow.svg"></a></p>
+<br></br>
 - 👋 Hi, I’m @fduran82
 
 
@@ -11,7 +12,7 @@
 
 
 
-- 💻 www.fidelduran.com
+- 💻 [www.fidelduran.com](https://fidelduran.com)
 
 
 
