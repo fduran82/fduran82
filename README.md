@@ -14,7 +14,7 @@
 
 - 💻 [www.fidelduran.com](https://fidelduran.com)
 
-
+![fduran82 GitHub stats](https://github-readme-stats.vercel.app/api?username=fduran82&count_private=true)
 
 
 <!---
