@@ -1,5 +1,6 @@
 <p align="center"><a href="https://fidelduran.com" target="_blank"><img width="250" src="https://fidelduran.com/images/logos/logo-yellow.svg"></a></p>
 <br></br>
+
 - 👋 Hi, I’m @fduran82
 
 
