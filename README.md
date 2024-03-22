@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fidelduran.com" target="_blank">
-    <img width="200" src="https://fidelduran.com/images/logos/logo-yellow.svg">
+    <img width="200" src="https://fidelduran.com/images/logos/logo-blue-single.svg">
   </a>
 </p>
 <br></br>
@@ -9,7 +9,7 @@
 
 
 
-- 👀 I’m interested in web development, design and more!
+- 👀 I’m interested in web development, design, and more!
 
 
 
