@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fidelduran.com" target="_blank">
-    <img width="60" src="https://fidelduran.com/images/logos/logo-blue-single.svg">
+    <img width="80" src="https://fidelduran.com/images/logos/logo-blue-single.svg">
   </a>
 </p>
 <br></br>
